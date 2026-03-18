@@ -71,6 +71,7 @@ speed up the process.
 
 - Fedor Indutny (Node.js TSC Emeritus Member)
 - Jan Lehnardt (CEO Neighbourhoodie Software, PMC Chair Apache CouchDB (still powers parts of npm) & PouchDB, co-organiser JSConf EU, Node.js since Ryan announced it, presenting from my laptop)
+- Paolo Fragomeni (Software Engineer)
 - Samir Saeedi (Web Developer, Node.js user)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
